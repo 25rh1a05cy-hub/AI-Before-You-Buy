@@ -1,0 +1,11 @@
+name,category,price,performance,battery,portability,gaming,display,storage,ram
+Laptop A,Laptop,65000,90,80,70,85,90,512,16
+Laptop B,Laptop,68000,85,95,90,70,85,512,16
+Laptop C,Laptop,62000,95,70,60,95,80,1000,16
+Laptop D,Laptop,58000,75,85,85,60,80,512,16
+Laptop E,Laptop,72000,92,88,75,90,95,1000,16
+Phone A,Smartphone,30000,85,90,95,80,90,256,8
+Phone B,Smartphone,35000,90,85,90,85,95,256,12
+Phone C,Smartphone,25000,80,95,98,70,85,128,8
+Phone D,Smartphone,40000,95,80,85,95,98,512,12
+Phone E,Smartphone,28000,82,92,96,75,88,256,8
